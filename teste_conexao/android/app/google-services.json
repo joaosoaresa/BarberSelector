@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "792523293152",
+    "firebase_url": "https://barber-26c10.firebaseio.com",
+    "project_id": "barber-26c10",
+    "storage_bucket": "barber-26c10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792523293152:android:14f04c646513a939",
+        "android_client_info": {
+          "package_name": "com.example.testeconexcao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792523293152-ko6sqshpefifpdavrgqrrge2baedidht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testeconexcao",
+            "certificate_hash": "650e3c1035f494814396069d9847f66af5014263"
+          }
+        },
+        {
+          "client_id": "792523293152-gik2jelfkdtes13b122rf5d6mabbnih1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdp4yN_UD1ACZhiskKXGxK0N12j9bsXSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792523293152-gik2jelfkdtes13b122rf5d6mabbnih1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
